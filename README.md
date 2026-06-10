@@ -18,5 +18,5 @@
 - Current: Basic Python syntax
 
 ## Contact
-- ArtStation: Mary "Albedo" Valkevich
-- Instagram: __mary__v__ # learning-python
+- Instagram: [@mary__v]((https://www.instagram.com/__mary__v__/))
+- ArtStation: [Mary "Albedo" Valkevich](https://artstation.com/albedo)
