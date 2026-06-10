@@ -19,4 +19,4 @@
 
 ## Contact
 - ArtStation: Mary "Albedo" Valkevich
-- Instagram: __mary__v__ # learning-python
+- Instagram: "__mary__v__" # learning-python
