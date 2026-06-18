@@ -1,4 +1,11 @@
-  # Задача №12 - Вариант 2 - если несколько цифр одинаковы, программа должна вывести только одно число.
+"""
+Stepik Tasks — Conditional Operators (if/else)
+Date: 18 June 2026
+Topics: if/else, comparison operators, logical operators
+Result: 12 tasks completed
+"""
+
+# Задача №12 - Вариант 2 - если несколько цифр одинаковы, программа должна вывести только одно число.
 a, b, c, d = int(input()), int(input()), int(input()), int(input())
 if a <= b: num = a
 if b <= a: num = b
