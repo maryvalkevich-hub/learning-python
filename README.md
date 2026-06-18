@@ -15,7 +15,7 @@
 
 ## Progress
 - Started: June 2026
-- Current: Completed integer arithmetic training (15/15) → Ready for exam
+- Current: Passed Stepik Exam #1 (Integer Arithmetic) → 100%
 
 ## Contact
 - Instagram: [@mary__v](https://www.instagram.com/__mary__v__/)
