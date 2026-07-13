@@ -30,15 +30,18 @@
 - [x] Cascade Conditions: `elif`
 - [x] Logical Operators: `and`, `or`, `not`
 - [x] Nested Conditions
+- [x] String Types: len(), f-strings, concatenation
+- [x] 'in' Operator: substring search
+- [x] Math Module: sqrt(), pow(), floor(), ceil(), pi, sin(), cos(), tan(), radians()
+- [x] Loops: for, range()
 
 ### In Progress 🔄
 
-- [ ] Numeric Data Types
+- Добавить: Loop for variable loop
 
 ### Upcoming 📅
 
-- [ ] Strings
-- [ ] Loops: `while`, `for`
+- [ ] Loops: `while`
 - [ ] Functions: `def`, `return`
 - [ ] Lists & Dictionaries
 - [ ] First Pet Project 🚀
