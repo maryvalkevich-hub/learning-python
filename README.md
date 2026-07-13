@@ -37,7 +37,8 @@
 
 ### In Progress 🔄
 
-- Добавить: Loop for variable loop
+- Loop `for` (variable loop lecture, test questions, and remaining tasks)
+- English: Lecture 4 (homework in progress)
 
 ### Upcoming 📅
 
@@ -45,6 +46,13 @@
 - [ ] Functions: `def`, `return`
 - [ ] Lists & Dictionaries
 - [ ] First Pet Project 🚀
+
+
+### 🎨 AI Art & Creative Projects (Forge UI)
+- **Apple Material Studies**: 
+  - ✅ Wood Series (Rough Oak, Birch, Mahogany, Aged, Burnt)
+  - ✅ Ice & Glass Series (Arctic Ice, Frosted Glass, Dark Kintsugi)
+  - 🔄 Clear & Colored Glass (In progress)
 
 ## Contact
 - Instagram: [@mary__v](https://www.instagram.com/__mary__v__/)
