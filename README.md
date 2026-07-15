@@ -36,9 +36,8 @@
 - [x] Loops: for, range()
 
 ### In Progress 🔄
-
-- Loop `for` (variable loop lecture, test questions, and remaining tasks)
-- English: Lecture 4 (homework in progress)
+- Loop `for` (common patterns / частые сценарии)
+- English: Lecture 4 (homework pending)
 
 ### Upcoming 📅
 
