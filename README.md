@@ -72,4 +72,4 @@ This repository contains my coding journey, including:
 ## 📬 Contact
 - **Instagram:** [@mary__v](https://www.instagram.com/__mary__v__/)
 - **ArtStation:** [Mary "Albedo" Valkevich](https://www.artstation.com/maria_v)
-- **GitHub:** [Your GitHub Username]
+
