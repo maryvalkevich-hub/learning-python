@@ -1,4 +1,4 @@
-"""
+""" 
 Stepik: Python Programming
 Topic: String Operations — Complete Module
 Date: 20 September 2026
