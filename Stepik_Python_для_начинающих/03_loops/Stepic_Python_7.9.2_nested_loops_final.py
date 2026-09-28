@@ -1,4 +1,4 @@
-"""
+""" 
 Stepik: Python Programming
 Topic: Advanced Nested Loops, Digital Root, and Pattern Generation
 Date: 13-14 August 2026
