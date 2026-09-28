@@ -1,4 +1,4 @@
-"""
+""" 
 Stepik: Python Programming
 Topic: String Slicing (Срезы) and Advanced Indexing
 Date: 02 September 2026
