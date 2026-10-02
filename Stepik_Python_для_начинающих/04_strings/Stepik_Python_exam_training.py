@@ -1,4 +1,4 @@
-""" 
+"""  
 Stepik Exam Training: Strings, Loops, and Conditions
 Date: 20 September 2026
 Purpose: Final warm-up before the exam. Covers all key topics.
